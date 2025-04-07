@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">🖥️ Back-end Developer</p>
+<p align="center"><Strong>🖥️ Web Developer</Strong>🖥️</p>
 
 ###
 
