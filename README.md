@@ -12,11 +12,11 @@
 
 ###
 
-<h2 align="center">Sobre min</h2>
+<h2 align="center">Sobre mim</h2>
 
 ###
 
-<p align="left">🌱 Back-end Raiz.<br><br>
+<p align="left"><strong>🌱 Back-end Raiz.<br><br></strong>
 ###
 
 <h2 align="center"></h2>
