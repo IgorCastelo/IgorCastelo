@@ -16,8 +16,7 @@
 
 ###
 
-<p align="left">🌱 Back-end.<br><br>⚡ Fun fact: Jiu-jitsu e Skateboarding</p>
-
+<p align="left">🌱 Back-end Raiz.<br><br>
 ###
 
 <h2 align="center"></h2>
