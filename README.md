@@ -1,18 +1,15 @@
-<h1 align="center">Olá, Sou Igor</h1>
+<h1 align="center">Igor Castelo</h1>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=IgorCastelo.IgorCastelo&"  />
-</div>
 
 ###
 
-<p align="center"><Strong>🖥️ Software Developer</Strong> 🖥️</p>
+<h2 align="center"><Strong>🖥️ Software Developer</Strong> 🖥️</h2><br>
 
 ###
 
-<h2 align="center">Sobre mim</h2>
+<h3 align="center">Sobre mim</h3>
 
 ###
 
@@ -22,6 +19,10 @@
 <h2 align="center"></h2>
 
 ###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=IgorCastelo.IgorCastelo&"  />
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
