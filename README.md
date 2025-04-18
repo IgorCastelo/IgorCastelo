@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center"><Strong>🖥️ Web Developer</Strong>🖥️</p>
+<p align="center"><Strong>🖥️ Software Developer</Strong> 🖥️</p>
 
 ###
 
